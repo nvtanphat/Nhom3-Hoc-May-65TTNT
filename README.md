@@ -40,4 +40,5 @@ Thư mục này chứa 4 notebook tương ứng với quá trình huấn luyện
 
 ## Yêu cầu cài đặt
 ## Hướng dẫn sử dụng
+## Cách xem nếu lỗi trên github: chuyển github.com thành .dev
 
