@@ -40,7 +40,9 @@ Thư mục này chứa 4 notebook tương ứng với quá trình huấn luyện
 ### 4. EfficientNetB3 (`04_efficientnetb3.ipynb`)
 - **Mô tả:** Sử dụng kiến trúc EfficientNetB3, mô hình tối ưu hóa cả chiều sâu, chiều rộng và độ phân giải.
 - **Mục tiêu:** Đạt được độ chính xác cao nhất có thể bằng cách sử dụng kiến trúc EfficientNet hiện đại.
-
+- 
+### 5 EDA (eda.ipynb)
+- **Mô tả:** Khám phá và trực quan hóa dữ liệu
 ## Yêu cầu cài đặt
 ## Hướng dẫn sử dụng
 ## Cách xem nếu lỗi trên github: chuyển github.com thành .dev
