@@ -1,10 +1,13 @@
 # XÂY DỰNG MÔ HÌNH HỌC SÂU CHO BÀI TOÁN PHÂN LOẠI BỆNH TRÊN GÀ TỪ ẢNH PHÂN GÀ
 
 **Môn học:** Học Máy
+
 **Lớp:** S26-65TTNT
+
 **Giảng viên:** ThS. Vũ Thị Hạnh
 
 **Nhóm thực hiện:** Nhóm 3
+
 **Thành viên:**
 1. Nguyễn Văn Tấn Phát
 2. Nguyễn Hoàng Lộc
